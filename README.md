@@ -18,5 +18,8 @@ SmartStudy Assistant is an AI-powered chat application that helps students learn
 - Smart retrieval of information from study materials to answer user questions.
 - Timestamped chat history for easy tracking of conversations.
 
-<img width="960" alt="image" src="https://github.com/lakmalGitHub/SmartStudy-Assistant/assets/13462144/cea1fffe-2a07-4772-94b4-2f70bbe9c8c2">
+## Screens
+
+<img width="960" alt="image" src="https://github.com/lakmalGitHub/SmartStudy-Assistant/assets/13462144/3dd3a1d6-5567-4416-a7b7-e1ce0d4f3eb3">
+
 
